@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740144469619",
+    "project_id": "vnpic-6613b",
+    "storage_bucket": "vnpic-6613b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740144469619:android:c7169c8b472347aca97c06",
+        "android_client_info": {
+          "package_name": "com.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740144469619-p1jn3am6epu4r2gtujke6ohk4fgtvh7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social_app",
+            "certificate_hash": "53175696e15a4bf6515fbe5c4eb9a24b75ab15ee"
+          }
+        },
+        {
+          "client_id": "740144469619-l1853gegg67aog10tupl3dhpchivs80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfLTkUQrQSIfXWunWPxSitFrJ20nl-GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740144469619-l1853gegg67aog10tupl3dhpchivs80i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
